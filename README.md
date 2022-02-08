@@ -9,7 +9,7 @@ where px, py is the position, φ is the orientation angle, v is the speed input,
 2)	The orientation of the robot is upwards (and thus it moves up) in all time moments except during t ∈ [3, 7) when it does a 360-degree turn clockwise.
 The differential equations are solved numerically using Euler’s method and the solution is visualized.
 
-**b)	Description of electricity.py**
+b)	**Description of electricity.py**
 This program reads from a file contract of electric companies, determines the energy consumption of the user based on the size of their apartment and the number of residents, and asks the user for an estimate of their energy consumption. The program determines the cheapest and the most eco-friendly electricity contracts for the calculated energy consumption and the energy consumption estimated by the user.
 Progression of the program
 1.	First, the main function asks the user for the filename (electricity_contracts_1.txt) and extracts the information of the electric contracts or informs the user if the file cannot be read. 
