@@ -81,12 +81,7 @@ class RentApartment:
         else:
             return False
     def __str__(self):
-        #rental_service=""
-        #if self.__rental_service:
-            #rental_service="not in use"
-        #else:
-            #rental_service = "not in use"
-
+        
         return "Address: {}\n"\
                "Maintenance charge: {} eur \n" \
                "Size: {} m2 \n" \
