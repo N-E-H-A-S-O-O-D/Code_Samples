@@ -16,4 +16,4 @@ Progression of the program
 2.	If reading the file succeeds, the main function asks the user for the size of the apartment, the number of the residents, and an estimate of the electricity consumption. Next, the program prints all contracts for the user. 
 3.	Next, the main function calculates the electricity consumption of the user based on the size of the apartment and residents. Finally, the main function determines and prints the cheapest and the most eco-friendly contracts for the user estimated and the calculated consumption. 
 
-c)The program **wind_turbine.py** reads the wind speeds from the file, calculates the hourly power of the wind turbine, the amount of the generated electrical energy, and the capacity factor.
+c)The program **wind_turbine.py** reads the wind speeds from the file (wind_data_1.txt), calculates the hourly power of the wind turbine, the amount of the generated electrical energy, and the capacity factor.
