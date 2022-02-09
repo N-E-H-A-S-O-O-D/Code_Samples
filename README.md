@@ -18,4 +18,4 @@ Progression of the program
 
 c)The program **wind_turbine.py** reads the wind speeds from the file (wind_data_1.txt), calculates the hourly power of the wind turbine, the amount of the generated electrical energy, and the capacity factor.
 
-d) The programs in rent-apartment.py and rent_house.py calculate rental incomes, compares rental incomes of 2 apartments, calculate return on equity, and check the price level of user-inputted apartments.
+d) The programs in **rent-apartment.py** and **rent_house.py** calculate rental incomes, compares rental incomes of 2 apartments, calculate return on equity, and check the price level of user-inputted apartments.
